@@ -1,0 +1,5 @@
+const API_CONST = {
+  N_LOGIN_USER: 'N_LOGIN_USER',
+  N_M_REGISTER_USER: 'N_M_REGISTER_USER',
+};
+export default API_CONST;

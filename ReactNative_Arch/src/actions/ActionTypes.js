@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+  LOGIN_USER: 'LOGIN_USER',
+  M_REGISTER_USER: 'M_REGISTER_USER',
+};
+
+export default ACTION_TYPES;
